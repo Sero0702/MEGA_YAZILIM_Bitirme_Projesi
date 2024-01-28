@@ -1,0 +1,24 @@
+.custom-navbar {
+  background: linear-gradient(to bottom, #5203a7, #098ce3);
+}
+
+
+.custom-navbar .nav-link {
+  color: linear-gradient(to bottom, #5203a7, #098ce3) !important;
+  font-size: large;
+
+}
+
+.custom-navbar .nav-link:hover {
+  background-color: linear-gradient(to bottom, #4a7c4a, #74945f);
+
+
+}
+
+
+.mb-0 {
+  color: rgb(6, 92, 59);
+  font-weight: bold;
+  margin-top: 4px;
+  margin-left: 15px;
+}
